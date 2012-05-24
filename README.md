@@ -1,10 +1,11 @@
-= aaaa-check
+aaaa-check
 
 A repository of simple programs to check for the existence of IPv6 addresses (AAAA records) in DNS.
 
 ----
 
-== aaaa-check.py
+aaaa-check.py 
+-------------
 
 A *very* simple program that loops forever to check whether manually input domain names
 have IPv6 addresses (AAAA records).  Created out of the need to check whether domain names entered
