@@ -1,4 +1,5 @@
-aaaa-check
+AAAA-check
+==========
 
 A repository of simple programs to check for the existence of IPv6 addresses (AAAA records) in DNS.
 
