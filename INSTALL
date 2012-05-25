@@ -1,0 +1,22 @@
+To use "aaaa-check.py", you need to have "dnspython" installed.  You can obtain
+the latest version from:
+
+  http://www.dnspython.org/
+  
+Click on the link for "Python 2.x Stable" and choose the appropriate .zip or
+.tar.gz file. [1]
+
+Once you have unzipped/untarred dnspython, cd into that directory and type:
+
+    python setup.py install
+    
+With dnspython installed, you now should just be able to go into the directory
+for aaaa-check and type:
+
+    python aaaa-check.py
+    
+The program runs in an infinite loop until you press Ctrl+C to terminate it.
+
+
+[1] Alternatively, for those comfortable with Github, dnspython can be found at:
+https://github.com/rthalley/dnspython
